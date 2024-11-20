@@ -34,9 +34,7 @@
 
 [linkedin]: https://linkedin.com/in/MINAESFANJANI
 
+- 🔭 I’m currently working on image analysis using deep learning techniques.  
+- 🌱 I’m currently learning advanced statistics and deep learning methodologies.  
+- 👯 I’m looking to collaborate on data analysis and visualization projects.  
 
-
-- 🔭 I’m currently working on analysis with deep learning
-- 🌱 I’m currently learning advanced statistics and deep learning techniques
-- 👯 I’m looking to collaborate on data analysis and visualization projects
--->
