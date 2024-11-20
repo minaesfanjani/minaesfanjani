@@ -1,15 +1,42 @@
-Welcome to Mina Esfanjani's Data Analyst Portfolio!
+<h1>Hi, I'm Mina! <br/>
+    <a href="https://www.linkedin.com/in/minaesfanjani/">Data Analyst</a>
+</h1>
 
-I am Mina Esfanjani, a data analyst with a Master's degree in Electrical-Control Engineering and professional certifications from IBM in Data Analysis and Data Science. I possess a wealth of experience utilizing various tools and technologies to gather, organize, and analyze data, ultimately guiding business decisions with actionable insights.
+<h2>👨‍💻 Master of System Control Engineering</h2>
 
-My technical proficiency includes Python, R, SQL, Excel, Power BI, and Tableau. I have a strong grasp of data analytics techniques, such as dashboard creation, report generation, data mining, data merging, statistical analysis, and critical thinking.
+<h3>📜 IBM Professional Data Analyst Certificate (4 months, 2023)</h3>
+<ul>
+    <li>Python Programming</li>
+    <li>Microsoft Excel</li>
+    <li>Spreadsheet Software</li>
+    <li>Data Visualization</li>
+    <li>Exploratory Data Analysis</li>
+    <li>Communication</li>
+    <li>SQL</li>
+    <li>Plot (Graphics)</li>
+    <li>Databases</li>
+</ul>
 
-This portfolio features a range of projects that highlight my data analytics expertise. You will find links to dashboards and reports I have crafted using Power BI, Tableau, and Excel. These projects exemplify my ability to present data in a clear, visually appealing manner, facilitating easy comprehension and swift decision-making for stakeholders.
+<h3>📜 IBM Professional Data Scientist Certificate (4 months, 2023)</h3>
+<ul>
+    <li>Applied Data Science Capstone</li>
+    <li>Tools for Data Science</li>
+    <li>What is Data Science?</li>
+    <li>Data Visualization with Python</li>
+    <li>Databases and SQL for Data Science with Python</li>
+    <li>Machine Learning with Python</li>
+    <li>Data Science Methodology</li>
+    <li>Python for Data Science, AI & Development</li>
+    <li>Data Analysis with Python</li>
+    <li>Python Project for Data Science</li>
+</ul>
 
-Additionally, I have showcased my programming skills through projects in Python, SQL, and R. These projects demonstrate my capability to extract valuable insights from extensive and intricate datasets, as well as to integrate data from multiple sources for a holistic view.
 
-Beyond my technical acumen, I take pride in my critical thinking and problem-solving abilities. I approach data analysis strategically, identifying key issues and opportunities within the data.
+[linkedin]: https://linkedin.com/in/MINAESFANJANI
 
-With my comprehensive skill set and experience, I am confident in my ability to excel in any data analyst role. I hope you find my portfolio informative and engaging, and I look forward to the opportunity to discuss my qualifications further.
 
-Thank you for your time, and I look forward to hearing from you soon.
+
+- 🔭 I’m currently working on analysis with deep learning
+- 🌱 I’m currently learning advanced statistics and deep learning techniques
+- 👯 I’m looking to collaborate on data analysis and visualization projects
+-->
